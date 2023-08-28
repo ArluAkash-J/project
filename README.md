@@ -1,2 +1,2 @@
-# project
+# PROJECT
 fake currency detector
